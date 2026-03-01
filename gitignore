@@ -1,0 +1,23 @@
+# Compiled files
+*.o
+*.so
+*.dll
+*.exe
+*.out
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+dist/
+build/
+*.egg-info/
+
+# Documentation
+docs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
