@@ -92,21 +92,3 @@ Ce projet est distribué sous licence MIT. Voir le fichier LICENSE.
 
 Merci à tous ceux qui utiliseront, étudieront ou améliorerront ce code. Puissiez-vous en faire bon usage.
 
-
-
-## **Fichier : `MANIFESTE.md`**
-# Manifeste LT-vEB
-
-**Créateur : Ibrahima Diallo (vpinoss)**
-
-L'algorithme LT-vEB n'est pas un simple outil technique, c'est un testament pour l'avenir de l'informatique.
-À une époque où les ressources deviennent précieuses, cet algorithme propose une gestion "organique" et frugale de la mémoire.
-
-## Les Principes de vpinoss
-
-- **Économie de Ressource** : Ne jamais gaspiller un nœud mémoire si une donnée "froide" peut laisser sa place à une donnée "chaude".
-- **Déterminisme** : Assurer que la machine reste au service de l'homme, sans comportements aléatoires.
-- **Transmission** : Ce code est offert au monde pour qu'il soit étudié, amélioré et utilisé pour construire des systèmes plus justes.
-
-**"Que ce code serve de fondation à ceux qui veulent construire un monde meilleur."**  
-— Ibrahima Diallo
